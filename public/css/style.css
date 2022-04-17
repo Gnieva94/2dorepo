@@ -1,0 +1,64 @@
+body {
+  background: #590d22;
+  font-family: "Open Sans", sans-serif;
+  text-align: left;
+}
+.portada img {
+  border-radius: 20px;
+}
+.ficha {
+  background: #800f2f;
+  padding: 25px;
+  border-radius: 8px;
+}
+.parrafo {
+  font-family: "Caveat", cursive;
+  font-size: 33px;
+  line-height: 5px;
+  text-align: center;
+}
+#tituloletra {
+  background: #800f2f;
+  padding: 25px;
+  border-radius: 8px;
+  margin: 2px;
+  display: inline-block;
+}
+#primeroracion {
+  margin-top: 5px;
+  padding: 15px;
+}
+#ultimaoracion {
+  margin-bottom: 5px;
+  padding: 30px;
+}
+.letra {
+  background: url(../images/papelviejo.jpg);
+  border-radius: 2px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.caja {
+  background: #800f2f;
+  padding: 25px;
+  border-radius: 8px;
+}
+#titulovideoclip {
+  background: #800f2f;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 8px;
+  margin-top: 0px;
+  margin-bottom: 12px;
+  display: inline-block;
+}
+footer {
+  background: #800f2f;
+  padding: 25px;
+  border-radius: 8px;
+}
+footer a {
+  color: black;
+}
